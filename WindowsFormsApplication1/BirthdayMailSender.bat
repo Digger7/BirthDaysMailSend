@@ -1,0 +1,1 @@
+BirthdayMailSender.exe /a
